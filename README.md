@@ -1,0 +1,5 @@
+- 👋 Hi, I’m James (@Sealgair138)
+- 👀 I’m interested in the R language, also dabble in SQL and Python
+- 🌱 I’m currently refining my knowledge of R, utilizing Rstudio with th tidyverse library
+- 💞️ I’m looking to collaborate on data analysis projects, im currently working on a text mining project.
+- 📫 How to reach me, you can reach me on linkedIn at https://www.linkedin.com/in/j-hunter/
